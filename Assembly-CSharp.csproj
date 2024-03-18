@@ -63,6 +63,9 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.18f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\GyroController.cs" />
+    <Compile Include="Assets\Scripts\TriggerToWin.cs" />
+    <Compile Include="Assets\Scripts\ColorFill.cs" />
     <Compile Include="Assets\Scripts\Controller.cs" />
   </ItemGroup>
   <ItemGroup>
