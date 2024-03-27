@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class Timer : MonoBehaviour
 {
-    public float totalTime = 30f; // Total time for the countdown
+    public float totalTime =130f; // Total time for the countdown
     private float currentTime; // Current time left
     public TextMeshProUGUI textMeshPro;
 
